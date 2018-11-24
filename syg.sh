@@ -7,7 +7,7 @@ red='\033[32;1m'
 white='\033[33;1m'
 cyan='\033[34;1m'
 green='\033[35;1m'
-purple'\033;1m'
+purple'\033[36;1m'
 
 echo $red"   ================================="
 echo $cyan"  ==         Name:Firzii         =="
